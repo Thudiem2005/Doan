@@ -1,0 +1,22 @@
+tuan@gmail.com: kkkkk
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: tuan@gmail.com: cái ?m
+Server: Message sent to user: tuan@gmail.com
+tuan@gmail.com: ?
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: tuan@gmail.com: hahahahahaha
+Server: Message sent to user: tuan@gmail.com
+an@gmail.com: tao là an ?ây
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: an@gmail.com: tao bi?t r?i
+Server: Message sent to user: an@gmail.com
+an@gmail.com: thôi cút
+Server: Message sent to admin: admin@gmail.com
+an@gmail.com: ttttt
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: an@gmail.com: ?
+Server: Message sent to user: an@gmail.com
+tuan@gmail.com: yyyyyyyyyyyyy
+Server: Message sent to admin: admin@gmail.com
+admin@gmail.com: tuan@gmail.com: uuuu
+Server: Message sent to user: tuan@gmail.com
